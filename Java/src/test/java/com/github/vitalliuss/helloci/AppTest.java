@@ -46,4 +46,9 @@ public class AppTest {
 	public void thirdTestShoudBePassed() {
 		assertTrue(true);
 	}
+	
+	@Test
+	public void fourthTestShoudBePassed() {
+		assertTrue(true);
+	}
 }
