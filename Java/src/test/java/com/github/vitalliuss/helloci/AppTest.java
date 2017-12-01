@@ -56,4 +56,9 @@ public class AppTest {
 	public void fifthTestShoudBePassed() {
 		assertTrue(true);
 	}
+	
+	@Test
+	public void sixthTestShoudBePassed() {
+		assertTrue(true);
+	}
 }
